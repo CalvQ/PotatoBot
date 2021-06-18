@@ -1,6 +1,12 @@
 # File containing token for bot
 TOKEN 
 
+# database files
+data.db-*
+
+# python compilation 
+__pycache__
+
 # === All following items are for tools and OS ===
 # Credit to github .gitignore templates: 
 # https://github.com/github/gitignore
